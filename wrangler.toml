@@ -1,0 +1,7 @@
+name = "unregistered"
+main = "worker.js"
+compatibility_date = "2025-11-02"
+
+[assets]
+directory = "public"
+binding = "ASSETS"
